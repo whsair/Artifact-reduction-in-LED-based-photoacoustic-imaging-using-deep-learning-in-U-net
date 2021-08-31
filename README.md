@@ -10,6 +10,7 @@
 1. https://github.com/nikhilroxtomar/UNet-Segmentation-in-Keras-TensorFlow
 2. https://github.com/zizhaozhang/unet-tensorflow-keras
 3. https://github.com/zhixuhao/unet
+4. https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11642/116421K/In-vivo-demonstration-of-reflection-artifact-reduction-in-LED-based/10.1117/12.2579082.short
 
 ## files
 - modelv*.ipynb (training data)
