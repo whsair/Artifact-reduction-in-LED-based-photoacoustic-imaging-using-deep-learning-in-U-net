@@ -16,3 +16,6 @@
 - test.ipynb (testing output and visualization)
 - test_matlab.mlx (matlab output) 
 
+![](output.PNG)
+
+![](loss_comp.PNG)
